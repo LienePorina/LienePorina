@@ -1,6 +1,6 @@
 <h1>Hi there, I am Liene!</h1>
  I'm a dedicated software developer with a strong drive to enhance my skills and gain more experience in the ever-evolving field of software engineering.
-<h1>My skills:</h1>
+<h1>My skills</h1>
 <p float="left">
 <img height="30px" alt="Git" src="https://github.com/LienePorina/LienePorina/blob/main/Tools/Github-Dark.svg">
 <img height="30px" alt="C#" src="https://github.com/LienePorina/LienePorina/blob/main/Tools/CSharp.svg">
