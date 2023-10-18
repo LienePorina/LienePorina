@@ -13,7 +13,7 @@
 <img height="30px" alt="Clean Code, SOLID" src="https://github.com/LienePorina/LienePorina/blob/main/Tools/cleancode.png">
 <img height="30px" alt="HTML" src="https://github.com/LienePorina/LienePorina/blob/main/Tools/HTML.svg">
 <img height="30px" alt="CSS" src="https://github.com/LienePorina/LienePorina/blob/main/Tools/CSS.svg">
-<img height="30px" alt="VueJS" src="">
+<img height="30px" alt="VueJS" src="https://github.com/LienePorina/LienePorina/blob/main/Tools/Vue.js.png">
 <img height="30px" alt="TypeScript" src="https://github.com/LienePorina/LienePorina/blob/main/Tools/Typescript.png">
 <img height="30px" alt="NodeJS basics" src="https://github.com/LienePorina/LienePorina/blob/main/Tools/nodejs.png">
 </p>
