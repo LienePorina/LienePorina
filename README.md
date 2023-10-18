@@ -2,20 +2,20 @@
  I'm a dedicated software developer with a strong drive to enhance my skills and gain more experience in the ever-evolving field of software engineering.
 <h1>🧰 Toolbox</h1>
 <p float="left">
-<img height="40px" alt="Git" src="https://github.com/LienePorina/LienePorina/blob/main/Tools/Github-Dark.svg">
+<img height="40px" alt="Git" src="https://github.com/LienePorina/LienePorina/blob/main/Tools/Git.svg">
 <img height="40px" alt="C#" src="https://github.com/LienePorina/LienePorina/blob/main/Tools/CSharp.svg">
 <img height="40px" alt=".NET" src="https://github.com/LienePorina/LienePorina/blob/main/Tools/DotNet.svg">
-<img height="40px" alt="Relational Databases & SQL" src="https://github.com/LienePorina/LienePorina/blob/main/Tools/sql_databases.jfif">
-<img height="40px" alt="HTTP Basics" src="https://github.com/LienePorina/LienePorina/blob/main/Tools/http.png">
-<img height="40px" alt="Web API Basics" src="https://github.com/LienePorina/LienePorina/blob/main/Tools/pngwebapi.png">
-<img height="40px" alt="Unit Testing" src="https://github.com/LienePorina/LienePorina/blob/main/Tools/unit_tests.png">
-<img height="40px" alt="Test Driven Development" src="https://github.com/LienePorina/LienePorina/blob/main/Tools/TDD.png">
-<img height="40px" alt="Clean Code, SOLID" src="https://github.com/LienePorina/LienePorina/blob/main/Tools/cleancode.png">
+<img height="40px" alt="Relational Databases & SQL" src="https://github.com/LienePorina/LienePorina/blob/main/Tools/Relational_Databases_SQL.jfif">
+<img height="40px" alt="HTTP Basics" src="https://github.com/LienePorina/LienePorina/blob/main/Tools/HTTP_Basics.png">
+<img height="40px" alt="Web API Basics" src="https://github.com/LienePorina/LienePorina/blob/main/Tools/WebAPI_Basics.png">
+<img height="40px" alt="Unit Testing" src="https://github.com/LienePorina/LienePorina/blob/main/Tools/Unit_Testing.png">
+<img height="40px" alt="Test Driven Development" src="https://github.com/LienePorina/LienePorina/blob/main/Tools/Test_Driven_Development.png">
+<img height="40px" alt="Clean Code, SOLID" src="https://github.com/LienePorina/LienePorina/blob/main/Tools/Clean_Code_SOLID.png">
 <img height="40px" alt="HTML" src="https://github.com/LienePorina/LienePorina/blob/main/Tools/HTML.svg">
 <img height="40px" alt="CSS" src="https://github.com/LienePorina/LienePorina/blob/main/Tools/CSS.svg">
-<img height="40px" alt="VueJS" src="https://github.com/LienePorina/LienePorina/blob/main/Tools/Vue.js.png">
-<img height="40px" alt="TypeScript" src="https://github.com/LienePorina/LienePorina/blob/main/Tools/Typescript.png">
-<img height="40px" alt="NodeJS basics" src="https://github.com/LienePorina/LienePorina/blob/main/Tools/nodejs.png">
+<img height="40px" alt="VueJS" src="https://github.com/LienePorina/LienePorina/blob/main/Tools/VueJS.png">
+<img height="40px" alt="TypeScript" src="https://github.com/LienePorina/LienePorina/blob/main/Tools/TypeScript.png">
+<img height="40px" alt="NodeJS basics" src="https://github.com/LienePorina/LienePorina/blob/main/Tools/NodeJS_Basics.png">
 </p>
 <h1>My projects</h1>
 <h2><a href="https://github.com/LienePorina/flight-planner-project" target="_blank">Flight Planner</a></h2>
